@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="dots" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
@@ -12401,6 +12401,7 @@ drill 1.0 mm</description>
 Voltage</text>
 <text x="73.66" y="35.56" size="1.27" layer="94">30V regulated
 output</text>
+<text x="45.72" y="15.24" size="0.8128" layer="94">https://github.com/pksato/TL431-Circuits</text>
 </plain>
 <instances>
 <instance part="T1" gate="G$1" x="48.26" y="50.8" smashed="yes" rot="R90">
