@@ -1,2 +1,2 @@
 # TL431-Circuits
-Circuits using TL431 voltage regulator
+Collection of Circuits using TL431 voltage regulator
